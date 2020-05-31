@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Nama: Sayyid Muhammd Ilham Assegaf
 =
 NIM:  D42116524
